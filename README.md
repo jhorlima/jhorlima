@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhordan Lima</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhorlima&label=Profile%20views&color=0e75b6&style=flat" alt="jhorlima" /> </p>
-
 - 👨🏽‍💻 I’m currently working at [Niduu](https://niduu.com/)
 
 - 🌱 I’m currently learning **Product Success Metrics**
@@ -28,5 +26,3 @@
 <br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhorlima&show_icons=true&locale=en" alt="jhorlima" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhorlima&" alt="jhorlima" /></p>
