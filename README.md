@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jhordan Lima</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨🏽‍💻 I’m currently working at [Niduu](https://niduu.com/)
+- 👨🏽‍💻 I’m currently working at [Gupy](https://gupy.io/)
 
 - 🌱 I’m currently learning **Product Success Metrics**
 
 - 🤝 I’m looking for help with [Matomo](https://github.com/matomo-org/matomo)
 
-- 💬 Ask me about **NestJS, TypeScript, Serverless and Redis**
+- 💬 Ask me about **NestJS, TypeScript, Serverless, Firebase and Redis**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/jhorlima/)
 
