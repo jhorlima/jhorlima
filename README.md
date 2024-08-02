@@ -3,9 +3,9 @@
 
 - 👨🏽‍💻 I’m currently working at [Gupy](https://gupy.io/)
 
-- 🌱 I’m currently learning **Product Success Metrics**
+- 🌱 I’m currently learning **Metering and Usage-based Billing**
 
-- 🤝 I’m looking for help with [Django: Python Framework](https://www.djangoproject.com/)
+- 🤝 I’m looking for help with [Lago](https://github.com/getlago/lago)
 
 - 💬 Ask me about **NestJS, TypeScript, Serverless, Firebase and Redis**
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Jhordan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhordan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhordan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Jhordan-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Jhordan-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Jhordan-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Jhordan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Jhordan-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
