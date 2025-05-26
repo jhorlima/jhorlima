@@ -3,10 +3,6 @@
 
 - 👨🏽‍💻 I’m currently working at [Gupy](https://gupy.io/)
 
-- 🌱 I’m currently learning **Metering and Usage-based Billing**
-
-- 🤝 I’m looking for help with [Lago](https://github.com/getlago/lago)
-
 - 💬 Ask me about **NestJS, TypeScript, Serverless, Firebase and Redis**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/jhorlima/)
