@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhordan Lima</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 👨🏽‍💻 I’m currently working at [Gupy](https://gupy.io/)
-
 - 💬 Ask me about **NestJS, TypeScript, Serverless, Firebase and Redis**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/jhorlima/)
